@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+
 
 month =input("Enter the month: ")
 if month in ["January", "March", "May", "July", "August", "October", "December"]:
