@@ -1,6 +1,6 @@
 
 
-month =input("Enter the month: ")
+month = input("Enter the month: ")
 if month in ["January", "March", "May", "July", "August", "October", "December"]:
     print("Month has 31 days")
 elif month in ["April", "June", "September", "November"]:
